@@ -47,7 +47,7 @@ JWT and Auth2.0
 ======================
 Understand the following  
 
-Cookies and JWT 
+https://portswigger.net/web-security/jwt
 
   
 
